@@ -77,7 +77,7 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  
+  # 参阅 https://github.com/sansan0/TrendRadar/issues/95
   # === 综合新闻媒体类 ===
   - id: "toutiao"
     name: "今日头条"
@@ -129,6 +129,8 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
+  - id: "douban"
+    name: "豆瓣"
 
   # === 科技类平台 ===
   - id: "ithome"
