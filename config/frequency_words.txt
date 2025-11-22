@@ -1,3 +1,15 @@
+经济
+economy
+
+股票
+stock
+股市
+!A股
+
+美联储
+fed
+Federal Reserve
+
 京东
 刘强东
 
@@ -13,6 +25,9 @@ alibaba
 腾讯
 tencent
 马化腾
+
+科技
+technology
 
 特斯拉
 tesla
@@ -54,8 +69,6 @@ mac
 ios
 Apple Intelligence
 
-科技
-
 互联网
 internet
 
@@ -96,9 +109,20 @@ self-driving
 飞船
 航空
 
+外交
+diplomacy
+foreign affairs
+
 美国
 US
 United States
+
+美元
+美金
+USD
+
+美股
+US stock market
 
 民主党
 Democratic Party
@@ -109,18 +133,31 @@ Republican Party
 日本
 Japan
 
+日元
+JPY
+yen
+
 韩国
 Korea
 
 欧洲
 Europe
+欧盟
 EU
 European Union
+
+欧元
+EUR
+Euro
 
 英国
 UK
 United Kingdom
 Britain
+
+英镑
+GBP
+Pound Sterling
 
 保守党
 Conservative Party
@@ -154,7 +191,13 @@ Democratic Progressive Party
 DPP
 
 香港
+HK
 Hong Kong
+
+港币
+港元
+HKD
+Hong Kong Dollar
 
 新加坡
 Singapore
@@ -163,15 +206,11 @@ Singapore
 UN
 United Nations
 
-战争
-war
-
-外交
-diplomacy
-foreign affairs
-
 政治
 politics
+
+战争
+war
 
 中国共产党
 中共
@@ -183,11 +222,3 @@ negotiation
 
 制裁
 sanction
-
-股票
-stock
-股市
-
-美联储
-fed
-Federal Reserve
