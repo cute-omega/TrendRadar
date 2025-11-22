@@ -1,70 +1,44 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
 字节
 bytedance
 张一鸣
+tik tok
+
+阿里巴巴
+alibaba
+马云
+
+腾讯
+tencent
+马化腾
 
 特斯拉
+tesla
 马斯克
 
 微软
 Microsoft
+azure
 
 英伟达
 NVIDIA
 黄仁勋
+Jason Huang
 
 AMD
+苏姿丰
+Lisa Su
 
 谷歌
 google
 gemini
 deepmind
+
+cloudflare
+
+github
 
 chatgpt
 openai
@@ -73,37 +47,47 @@ sora
 claude
 Anthropic
 
+Apple Inc
 iphone
 ipad
 mac
 ios
+Apple Intelligence
+
+科技
+
+互联网
+internet
+
+区块链
+blockchain
+
+NFT
+
+比特币
+bitcoin
+
+以太坊
+ethereum
+
+加密货币
+cryptocurrency
+
+稳定币
+stablecoin
+
+元宇宙
+metaverse
 
 ai
 !gai
 人工智能
 
 自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
+self-driving
 
 芯片
 光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
 
 月球
 登月
@@ -111,3 +95,84 @@ ai
 宇宙
 飞船
 航空
+
+美国
+US
+United States
+
+民主党
+Democratic Party
+
+共和党
+Republican Party
+
+日本
+Japan
+
+韩国
+Korea
+
+欧洲
+Europe
+EU
+European Union
+
+英国
+UK
+United Kingdom
+Britain
+
+保守党
+Conservative Party
+
+工党
+Labour Party
+
+法国
+France
+
+德国
+Germany
+Deutschland
+
+俄罗斯
+Russia
+
+乌克兰
+Ukrine
+
+台湾
+Taiwan
+ROC
+Republic of China
+
+国民党
+KMT
+
+民进党
+Democratic Progressive Party
+DPP
+
+香港
+Hong Kong
+
+新加坡
+Singapore
+
+联合国
+UN
+United Nations
+
+战争
+war
+
+制裁
+sanction
+
+股票
+stock
+股市
+
+美联储
+fed
+Federal Reserve
