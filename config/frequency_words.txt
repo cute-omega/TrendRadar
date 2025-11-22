@@ -36,6 +36,7 @@ tesla
 微软
 Microsoft
 azure
+Windows
 
 英伟达
 NVIDIA
@@ -95,6 +96,24 @@ metaverse
 ai
 !gai
 人工智能
+
+开源软件
+open source software
+
+自由软件
+free software
+
+Linux
+
+Debian
+
+Canonical
+Ubuntu
+
+Red Hat
+Fedora
+
+Arch Linux
 
 自动驾驶
 self-driving
