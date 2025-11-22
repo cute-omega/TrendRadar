@@ -166,6 +166,21 @@ United Nations
 战争
 war
 
+外交
+diplomacy
+foreign affairs
+
+政治
+politics
+
+中国共产党
+中共
+CPC
+CCP
+
+谈判
+negotiation
+
 制裁
 sanction
 
