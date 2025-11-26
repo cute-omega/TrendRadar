@@ -1,0 +1,3 @@
+mcp_server.pid
+**/*.pyc
+.DS_Store
