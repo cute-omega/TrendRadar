@@ -23,3 +23,8 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["mcp_server"]
+
+[tool.uv.workspace]
+members = [
+    "foo",
+]
