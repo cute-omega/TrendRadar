@@ -94,6 +94,7 @@ stablecoin
 metaverse
 
 ai
+artificial intelligence
 !gai
 人工智能
 
